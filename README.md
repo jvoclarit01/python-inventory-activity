@@ -7,7 +7,7 @@
 This program implements an inventory management system using Python that allows users to manage items and their prices.
 
 ## Sample output
-![My Sample Ouput](images/sample output.png)
+![My Sample Ouput](images/sampleOutput.png)
 
 ## Author
 ``Oclarit, Jan Vincent``
